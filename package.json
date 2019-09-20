@@ -1,6 +1,6 @@
 {
-  "name": "wsolovin-react-tpdfreader",
-  "version": "0.0.5",
+  "name": "wsolovin-react-tpdfreader-v2",
+  "version": "0.0.6",
   "description": " Pdf reader for react app written in Typescript",
   "main": "build/index.js",
   "scripts": {
