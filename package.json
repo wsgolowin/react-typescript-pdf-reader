@@ -1,5 +1,5 @@
 {
-  "name": "react-typescript-pdf-reader",
+  "name": "wsolovin-react-tpdfreader",
   "version": "0.0.5",
   "description": " Pdf reader for react app written in Typescript",
   "main": "build/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumn2u/react-typescript-pdf-reader.git"
+    "url": "git+https://git@github.com/wsgolowin/react-typescript-pdf-reader.git"
   },
   "keywords": [
     "react typescript pdf",
@@ -19,12 +19,12 @@
     "pdf reader",
     "pdfjs"
   ],
-  "author": "suman kunwar",
+  "author": "wsgolowin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sumn2u/react-typescript-pdf-reader/issues"
+    "url": "https://github.com/wsgolowin/react-typescript-pdf-reader/issues"
   },
-  "homepage": "https://github.com/sumn2u/react-typescript-pdf-reader#readme",
+  "homepage": "https://github.com/wsgolowin/react-typescript-pdf-reader#readme",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "7.1.6",
